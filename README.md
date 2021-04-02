@@ -2,9 +2,9 @@
 
 I have been mostly on the Product Management side of things. I am fascinated with great product outlooks playing a vital role in daily life be it ordering a quick meal, listening to a song you like, looking at an inspired space or design, to digital artistic outputs that start a conversation – all these spirit me to dream up the pursuit of great ideas. 
 
-Skills: Python3 / Node.js / Analytics / Visualization / Prototyping / Product Management
+**Skills**: Python3 / Node.js / Analytics / Visualization / Prototyping / Product Management
 
-Tools: Jupyter Notebooks / PyCharm / Jira / Trello / Figma / Tableau / Notion / Excel / Slack
+**Tools**: Jupyter Notebooks / PyCharm / Jira / Trello / Figma / Tableau / Notion / Excel / Slack
 
 - 🔭 I’m currently working on becoming better at coding 
 - 🌱 I’m currently learning Machine Learning 
