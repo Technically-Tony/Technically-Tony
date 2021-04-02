@@ -13,6 +13,7 @@ I have been mostly on the Product Management side of things. I am fascinated wit
 - 😄 Pronouns: He/Him 
 - 📫 How to reach me: tkagete@icloud.com 
 - 📚 [Books I'm reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327)
+- 🎧 [Music I'm listening to](https://open.spotify.com/playlist/6VixOZz7vkQca7ZNBPwe2u)
 
 
 
