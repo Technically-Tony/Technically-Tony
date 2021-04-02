@@ -10,9 +10,9 @@ I have been mostly on the Product Management side of things. I am fascinated wit
 - 🌱 I’m currently learning Machine Learning 
 - 🤔 I’m looking for help with Machine Learning, Deep Learning 
 - 💬 Ask me about Product, Venture Building
-- - 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him 
 - 📫 How to reach me: tkagete@icloud.com 
-- 📚([Books I'm reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327))
+- 📚 [Books I'm reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327)
 
 
 
