@@ -9,9 +9,11 @@ I have been mostly on the Product Management side of things. I am fascinated wit
 - 🔭 I’m currently working on becoming better at coding 
 - 🌱 I’m currently learning Machine Learning 
 - 🤔 I’m looking for help with Machine Learning, Deep Learning 
-- 💬 Ask me about Product, Venture Building 
+- 💬 Ask me about Product, Venture Building
+- - 😄 Pronouns: He/Him 
 - 📫 How to reach me: tkagete@icloud.com 
-- 😄 Pronouns: He/Him
+- 📚([Books I'm reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327))
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Technically-Tony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
