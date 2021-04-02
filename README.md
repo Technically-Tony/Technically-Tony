@@ -1,13 +1,13 @@
 ![My interests lie mostly in Product](https://github.com/Technically-Tony/Technically-Tony/blob/e0956a2b40a87ea0f138541b6b7b2dc9af7a6c69/intro.gif)
 
-My interests lie mostly in Product. I am fascinated with great product outlooks playing a vital role in daily life be it ordering a quick meal, listening to a song you like, looking at an inspired space or design, to digital artistic outputs that start a conversation – all these spirit him to dream up and inspire the pursuit of great ideas. 
+My interests lie mostly in Product. I am fascinated with great product outlooks playing a vital role in daily life be it ordering a quick meal, listening to a song you like, looking at an inspired space or design, to digital artistic outputs that start a conversation – all these spirit me to dream up the pursuit of great ideas. 
 
 Skills: Python3 / Node / Analytics / Visualization / Prototyping / Product Management
 
 - 🔭 I’m currently working on becoming better at coding 
 - 🌱 I’m currently learning Machine Learning 
 - 🤔 I’m looking for help with Machine Learning, Deep Learning 
-- 💬 Ask me about Product 
+- 💬 Ask me about Product, Venture Building 
 - 📫 How to reach me: tkagete@icloud.com 
 - 😄 Pronouns: he/him 
 
