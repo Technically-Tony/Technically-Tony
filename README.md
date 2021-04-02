@@ -11,7 +11,7 @@ Tools: Jupyter Notebooks / PyCharm / Jira / Trello / Figma / Tableau / Notion / 
 - 🤔 I’m looking for help with Machine Learning, Deep Learning 
 - 💬 Ask me about Product, Venture Building 
 - 📫 How to reach me: tkagete@icloud.com 
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: He/Him
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Technically-Tony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
