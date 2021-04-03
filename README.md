@@ -8,7 +8,7 @@ I have been mostly on the Product Management side of things. I am fascinated wit
 
 <h3 align="left">Skills:</h3>
 
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="icons8-python.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="icons8-mysql-logo.svg" alt="mysql" width="40" height="40"/>  </a> <a href="https://nodejs.org" target="_blank"> <img src="icons8-nodejs.svg" alt="nodejs" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="icons8-python.svg" alt="python" width="40" height="40"/> </a>    <a href="https://www.mysql.com/" target="_blank"> <img src="icons8-mysql-logo.svg" alt="mysql" width="40" height="40"/>    </a> <a href="https://nodejs.org" target="_blank"> <img src="icons8-nodejs.svg" alt="nodejs" width="40" height="40"/> </a></p>
   
   
   <h3 align="left">Tools:</h3>
