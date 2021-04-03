@@ -20,6 +20,10 @@ I have been mostly on the Product Management side of things. I am fascinated wit
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
 
 
+[![Spotify](https://novatorem-cc6ux77t9-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey)
+
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Technically-Tony)  
 
 ![Profile views](https://gpvc.arturio.dev/Technically-Tony)  
