@@ -8,7 +8,8 @@ Python3 / Node.js / Analytics / Visualization / Prototyping / Product Management
 
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="icons8-python.svg" alt="python" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank"> <img src="icons8-mysql-logo.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://nodejs.org" target="_blank"> <img src="icons8-nodejs.svg" alt="nodejs" width="40" height="40"/> </a>   <a href="https://scikit-learn.org/" target="_blank"> <img src="Scikit_learn_logo_small.svg" alt="scikit" width="40" height="40"/> </p>
   
-  
+__________________________________________________________________________________________________________
+
 <h3 align="left">Tools:</h3>
 
 Jupyter Notebooks / PyCharm / Jira / Trello / Figma / Tableau / Notion / Excel / Slack
