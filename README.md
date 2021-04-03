@@ -40,8 +40,7 @@ I have been mostly on the Product Management side of things. I am fascinated wit
 
 <h3 align="left">Find me on:</h3>
 
-[<img src='icons8-github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='icons8-twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/technicallytony)  [<img src='behance.svg' alt='behance' height='40'>](https://behance.net/technically_tony)  [<img src='stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='icons8-vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
+[<img src='icons8-github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='icons8-twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/technicallytony)  [<img src='behance.svg' alt='behance' height='40'>](https://behance.net/technically_tony)  [<img src='stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='icons8-vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
 
 <h3 align="left">Now Playing:</h3>
 
