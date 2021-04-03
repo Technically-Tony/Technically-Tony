@@ -18,10 +18,10 @@ I have been mostly on the Product Management side of things. I am fascinated wit
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> 
   </a> <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="jira-seeklogo.com.svg" alt="jira" width="40" height="40"/> </a> 
   <a href="https://trello.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> 
-  </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="figma" width="40" height="40"/> </a>
+  </a> <a href="https://www.figma.com/" target="_blank"> <img src="http://commons.wikimedia.org/wiki/File:Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://tableau.com/" target="_blank"> <img src="https://simpleicons.org/icons/tableau.svg" alt="tableau" width="40" height="40"/> 
-  </a> <a href="https://www.notion.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="notion" width="40" height="40"/> </a>
-  </a> <a href="https://www.slack.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="slack" width="40" height="40"/> </a> </p>
+  </a> <a href="https://www.notion.com/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Notion_app_logo.png" alt="notion" width="40" height="40"/> </a>
+  </a> <a href="https://www.slack.com/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Slack_icon_2019.svg" alt="slack" width="40" height="40"/> </a> </p>
   
   
   
