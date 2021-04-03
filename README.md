@@ -28,22 +28,20 @@ I have been mostly on the Product Management side of things. I am fascinated wit
   
   
 
-- 🔭 I’m currently working on becoming better at coding 
+- 🔭 I’m currently working on [Jambo ML](https://github.com/Technically-Tony/jamboml-1.git)
 - 🌱 I’m currently learning Machine Learning 
 - 🤔 I’m looking for help with Machine Learning, Deep Learning 
 - 💬 Ask me about Product, Venture Building
 - 😄 Pronouns: He/Him 
 - 📫 How to reach me: tkagete@icloud.com 
-- 📚 [Books I'm reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327)
-- 🎧 [Music I'm listening to](https://open.spotify.com/playlist/6VixOZz7vkQca7ZNBPwe2u)
+- 📚 Books I'm [Reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327)
+- 🎧 Music I'm [Jamming](https://open.spotify.com/playlist/6VixOZz7vkQca7ZNBPwe2u)
 
 
 <h3 align="left">Find me on:</h3>
 
-[<img src='icons8-github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='icons8-twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/technicallytony)  [<img
-src='behance.svg' alt='behance' height='40'>](https://behance.net/technically_tony)  [<img
-src='stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='icons8-vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
+[<img src='icons8-github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='icons8-twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/technicallytony)  [<img src='behance.svg' alt='behance' height='40'>](https://behance.net/technically_tony)  [<img src='stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='icons8-vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
 
 <h3 align="left">Now Playing:</h3>
 
