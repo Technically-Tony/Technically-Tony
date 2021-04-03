@@ -6,11 +6,25 @@ I have been mostly on the Product Management side of things. I am fascinated wit
 
 **Tools**: Jupyter Notebooks / PyCharm / Jira / Trello / Figma / Tableau / Notion / Excel / Slack
 
-<h3 align="left">Skills and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<h3 align="left">Skills:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+  
+  
+  <h3 align="left">Tools:</h3>
+<p align="left"> <a href="https://www.jupyter.org/" target="_blank"> <img src="https://simpleicons.org/icons/jupyter.svg" alt="jupyter" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://simpleicons.org/icons/pycharm.svg" alt="pycharm" width="40" height="40"/> 
+  </a> <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://simpleicons.org/icons/jira.svg" alt="jira" width="40" height="40"/> </a> 
+  <a href="https://trello.com/" target="_blank"> <img src="https://simpleicons.org/icons/trello.svg" alt="trello" width="40" height="40"/> 
+  </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://simpleicons.org/icons/figma.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://tableau.com/" target="_blank"> <img src="https://simpleicons.org/icons/tableau.svg" alt="tableau" width="40" height="40"/> 
+  </a> <a href="https://www.notion.com/" target="_blank"> <img src="https://simpleicons.org/icons/notion.svg" alt="notion" width="40" height="40"/> </a>
+  </a> <a href="https://www.slack.com/" target="_blank"> <img src="https://simpleicons.org/icons/slack.svg" alt="slack" width="40" height="40"/> </a> </p>
+  
+  
+  
 
 - 🔭 I’m currently working on becoming better at coding 
 - 🌱 I’m currently learning Machine Learning 
