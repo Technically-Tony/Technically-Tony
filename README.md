@@ -14,7 +14,7 @@ I have been mostly on the Product Management side of things. I am fascinated wit
   
   
   <h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.jupyter.org/" target="_blank"> <img src="https://simpleicons.org/icons/jupyter.svg" alt="jupyter" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://simpleicons.org/icons/pycharm.svg" alt="pycharm" width="40" height="40"/> 
   </a> <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://simpleicons.org/icons/jira.svg" alt="jira" width="40" height="40"/> </a> 
   <a href="https://trello.com/" target="_blank"> <img src="https://simpleicons.org/icons/trello.svg" alt="trello" width="40" height="40"/> 
