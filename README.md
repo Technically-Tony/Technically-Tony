@@ -15,8 +15,8 @@ I have been mostly on the Product Management side of things. I am fascinated wit
   
   <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://simpleicons.org/icons/pycharm.svg" alt="pycharm" width="40" height="40"/> 
-  </a> <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://simpleicons.org/icons/jira.svg" alt="jira" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="pycharm" width="40" height="40"/> 
+  </a> <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="jira-seeklogo.com.svg" alt="jira" width="40" height="40"/> </a> 
   <a href="https://trello.com/" target="_blank"> <img src="https://simpleicons.org/icons/trello.svg" alt="trello" width="40" height="40"/> 
   </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://simpleicons.org/icons/figma.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://tableau.com/" target="_blank"> <img src="https://simpleicons.org/icons/tableau.svg" alt="tableau" width="40" height="40"/> 
@@ -36,10 +36,10 @@ I have been mostly on the Product Management side of things. I am fascinated wit
 - 🎧 [Music I'm listening to](https://open.spotify.com/playlist/6VixOZz7vkQca7ZNBPwe2u)
 
 
-[<img src='icons8-github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img 
+[<img src='icons8-github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='icons8-twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img 
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/technicallytony)  [<img
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://behance.net/technically_tony)  [<img
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
+src='behance.svg' alt='behance' height='40'>](https://behance.net/technically_tony)  [<img
+src='stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/technically-tony)  [<img src='icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery)  [<img src='icons8-vimeo.svg' alt='vimeo' height='40'>](https://vimeo.com/129008796)  
 
 **Now Playing**:
 
