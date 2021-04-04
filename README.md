@@ -1,4 +1,4 @@
-![My interests lie mostly in Product](https://github.com/Technically-Tony/Technically-Tony/blob/e0956a2b40a87ea0f138541b6b7b2dc9af7a6c69/intro.gif)
+![My interests lie mostly in Product](intro2.gif)
 
 Been mostly on the Product Management side of things. I am fascinated with great product outlooks playing a vital role in daily life be it ordering a quick meal, listening to a song you like, looking at an inspired space or design, to digital artistic outputs that start a conversation – all these spirit me to dream up the pursuit of great ideas. 
 
