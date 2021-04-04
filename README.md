@@ -1,6 +1,6 @@
 ![My interests lie mostly in Product](intro2.gif)
 
-Been mostly on the Product Management side of things. Fascinated with great product outlooks playing a vital role in daily life be it ordering a quick meal, listening to a song you like, looking at an inspired space or design, to digital artistic outputs that start a conversation – all these spirit me to dream up the pursuit of great ideas. 
+Mixed business & engineering background, been mostly on the Product Management side of things. Fascinated with great product outlooks playing a vital role in daily life be it ordering a quick meal, listening to a song you like, looking at an inspired space or design, to digital artistic outputs that start a conversation – all these spirit me to dream up the pursuit of great ideas. 
 
 <h3 align="left">Skills:</h3>
 
