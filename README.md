@@ -1,6 +1,6 @@
 ![My interests lie mostly in Product](intro2.gif)
 
-Mixed business & engineering background, been mostly on the Product Management side of things. Fascinated with great product outlooks playing a vital role in daily life be it ordering a quick meal, listening to a song you like, looking at an inspired space or design, to digital artistic outputs that start a conversation – all these spirit me to dream up the pursuit of great ideas. 
+Mixed business & engineering background, been mostly on the Product Management side of things. Fascinated with great product outlooks playing a vital role in daily life be it ordering a quick meal, listening to a song you like, looking at an inspired space or design, to digital artistic outputs that start a conversation – all these spirit me to dream up the pursuit of great product ideas. 
 
 <h3 align="left">Skills:</h3>
 
@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 Jupyter Notebooks / PyCharm / Jira / Trello / Figma / Tableau / Notion / Excel / Slack
 
-<p align="left"> <a href="https://www.jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="jira-seeklogo.com.svg" alt="jira" width="40" height="40"/> </a> <a href="https://trello.com/" target="_blank"> <img src="trello-icon.svg" alt="trello" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://tableau.com/" target="_blank"> <img src="tableau-software-seeklogo.com.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://www.notion.com/" target="_blank"> <img src="icons8-notion.svg" alt="notion" width="40" height="40"/> </a> </a> <a href="https://www.slack.com/" target="_blank"> <img src="Slack_icon_2019.svg" alt="slack" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="jira-seeklogo.com.svg" alt="jira" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://tableau.com/" target="_blank"> <img src="tableau-software-seeklogo.com.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://www.notion.com/" target="_blank"> <img src="icons8-notion.svg" alt="notion" width="40" height="40"/> </a> </a> <a href="https://www.slack.com/" target="_blank"> <img src="Slack_icon_2019.svg" alt="slack" width="40" height="40"/> </a> </p>
   
 __________________________________________________________________________________________________________
 
