@@ -17,16 +17,22 @@ Jupyter Notebooks / PyCharm / Jira / Trello / Figma / Tableau / Notion / Excel /
   
 __________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on [Jambo ML](https://github.com/Technically-Tony/jamboml-1.git)
-- 🌱 I’m currently learning Machine Learning 
-- 🤔 I’m looking for help with Machine Learning, Deep Learning 
-- 💬 Ask me about Product, Venture Building
-- 😄 Pronouns: He/Him 
-- 📫 How to reach me: tkagete@icloud.com 
-- 📚 Books I'm [Reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327)
-- 🎧 Music I'm [Jamming](https://open.spotify.com/playlist/6VixOZz7vkQca7ZNBPwe2u)
+- Currently working on [Jambo ML](https://github.com/Technically-Tony/jamboml-1.git)
+- Currently learning Machine Learning 
+- Looking for help with Machine Learning, Deep Learning 
+- Ask me about Product, Venture Building
+- Pronouns: He/Him 
+- How to reach me: tkagete@icloud.com 
+- Books I'm [Reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327)
+- Music I'm [Jamming](https://open.spotify.com/playlist/6VixOZz7vkQca7ZNBPwe2u)
 
 __________________________________________________________________________________________________________
+
+<h3 align="left">My Latest Blog Post:</h3>
+
+<!-- BLOG-POST-LIST:START -->
+- [How I added Spotify ‘Now Playing’ to my GitHub Profile Readme, in 7 Easy Steps](https://technicallytony.com/how-i-added-spotify-now-playing-to-my-github-profile-readme-in-7-easy-steps)
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Find me on:</h3>
 
@@ -37,11 +43,5 @@ ________________________________________________________________________________
 <h3 align="left">Now Playing:</h3>
 
 [![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey)
-
-<h3 align="left">My Latest Blog Post:</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [How I added Spotify ‘Now Playing’ to my GitHub Profile Readme, in 7 Easy Steps](https://technicallytony.com/how-i-added-spotify-now-playing-to-my-github-profile-readme-in-7-easy-steps)
-<!-- BLOG-POST-LIST:END -->
 
 ![Profile views](https://gpvc.arturio.dev/Technically-Tony)  
