@@ -20,7 +20,7 @@ ________________________________________________________________________________
 - Currently working on [Jambo ML](https://github.com/Technically-Tony/jamboml-1.git)
 - Currently learning Machine Learning 
 - Looking for help with Machine Learning, Deep Learning 
-- Ask me about Product, Venture Building
+- Ask me about Product, Data, Venture Building
 - Pronouns: He/Him 
 - How to reach me: tkagete@icloud.com 
 - Books I'm [Reading](https://www.notion.so/technicallytony/TK-s-books-8fa76125be694a04b59cf0eafe6f6327)
