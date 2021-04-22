@@ -1,4 +1,4 @@
-![My interests lie mostly in Product](hello.gif)
+![Hello I'm Tony Kagete](hello.gif)
 Mixed business & engineering background, been mostly on the Product Management side of things. Fascinated with great product outlooks playing vital roles in various practical aspects of daily life. 
 
 <h3 align="left">Skills:</h3>
@@ -38,7 +38,8 @@ ________________________________________________________________________________
 
 [![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Technically-Tony)  
+**My Latest Blog Post**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Profile views](https://gpvc.arturio.dev/Technically-Tony)  
