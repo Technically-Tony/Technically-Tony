@@ -9,7 +9,7 @@ Python3 / MySql / Analytics / Visualization / Prototyping / Product Management
   
 __________________________________________________________________________________________________________
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Toolbox:</h3>
 
 Jupyter Notebooks / PyCharm / Jira / Trello / Figma / Tableau / Notion / Excel / Slack
 
