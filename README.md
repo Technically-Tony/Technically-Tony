@@ -1,5 +1,5 @@
 ![Hello I'm Tony Kagete](hello.gif)
-Mixed business & engineering background, been mostly on the Product Management side of things. Fascinated with great product outlooks playing vital roles in various practical aspects of daily life. 
+Mixed business & engineering background, been mostly on the Product Management side of things. Fascinated with great product outlooks playing vital roles in practical aspects of daily life. 
 
 <h3 align="left">Skills:</h3>
 
