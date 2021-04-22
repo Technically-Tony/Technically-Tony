@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 <h3 align="left">Find me on:</h3>
 
-[<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='media/icons8-twitter.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@tkagete) [<img src='media/icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery) 
+[<img src='media/icons8-github.svg' alt='github' height='40'>](https://github.com/technically-tony)    [<img src='media/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonykagete/)  [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/technicallytony)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@tkagete) [<img src='media/icons8-vsco.svg' alt='vsco' height='40'>](https://vsco.co/technicallytony/gallery) 
 
 __________________________________________________________________________________________________________
 
