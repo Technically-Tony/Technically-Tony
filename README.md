@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
-<h3 align="left">My Latest Blog Post:</h3>
+<h3 align="left">My Latest Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [How I added Spotify ‘Now Playing’ to my GitHub Profile Readme, in 7 Easy Steps](https://technicallytony.com/how-i-added-spotify-now-playing-to-my-github-profile-readme-in-7-easy-steps)
