@@ -3,7 +3,7 @@ Mixed business & engineering background, been mostly on the Product Management s
 
 <h3 align="left">Skills:</h3>
 
-Python3 / Node.js / Analytics / Visualization / Prototyping / Product Management
+Python3 / MySql / Analytics / Visualization / Prototyping / Product Management
 
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="Python-02.svg" alt="python" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank"> <img src="Mysql-03.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://nodejs.org" target="_blank"> <img src="Node-js-01.svg" alt="nodejs" width="40" height="40"/> </a>   <a href="https://scikit-learn.org/" target="_blank"> <img src="Scikit_learn_logo_small.svg" alt="scikit" width="40" height="40"/> </p>
   
