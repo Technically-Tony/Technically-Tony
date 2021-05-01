@@ -29,6 +29,7 @@ ________________________________________________________________________________
 <h3 align="left">My Latest Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Obsidian: My Data Science Study Sidekick](https://technicallytony.com/obsidian-my-data-science-study-sidekick)
 - [How I added Spotify ‘Now Playing’ to my GitHub Profile Readme, in 7 Easy Steps](https://technicallytony.com/how-i-added-spotify-now-playing-to-my-github-profile-readme-in-7-easy-steps)
 <!-- BLOG-POST-LIST:END -->
 
