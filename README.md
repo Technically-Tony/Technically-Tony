@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 <!-- BLOG-POST-LIST:START -->
 - [Obsidian: My Data Science Study Sidekick](https://technicallytony.com/obsidian-my-data-science-study-sidekick)
-- [How I added Spotify ‘Now Playing’ to my GitHub Profile Readme, in 7 Easy Steps](https://technicallytony.com/how-i-added-spotify-now-playing-to-my-github-profile-readme-in-7-easy-steps)
+- [Add Spotify ‘Now Playing’ to Your GitHub Profile Readme, in 7 Easy Steps](https://technicallytony.com/add-spotify-now-playing-to-your-github)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Find me on:</h3>
